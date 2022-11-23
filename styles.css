@@ -1,0 +1,6 @@
+.container{
+    display: grid;
+    height: 800px;
+    width: 800px;
+    gap: 0px;
+}
